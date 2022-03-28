@@ -798,7 +798,7 @@ main {
     .nav-menu{
         position: fixed;
         right: -100%;
-        top: 120px;
+        top: 100px;
         gap: 0;
         flex-direction: column;
         background-color: #fff;
@@ -1268,7 +1268,7 @@ main {
         .nav-menu{
             position: fixed;
             right: -100%;
-            top: 120px;
+            top: 100px;
             gap: 0;
             flex-direction: column;
             background-color: #fff;
@@ -1294,7 +1294,7 @@ main {
     
         .nav-branding{border: solid;}    
 
-        .capa{height: 370px;}
+        .capa{height: 525px;}
         
         .sessao-img{margin-top: 100px;}
         
@@ -1310,7 +1310,7 @@ main {
 
         .linha{
             width: 85%;
-            margin-top: 180px;
+            margin-top: 200px;
         }
     
         .vacinometro{
@@ -1600,7 +1600,6 @@ main {
 }
 
 @media screen and (max-width: 480px){
-
     .texto-capa{font-size: 30px;}
 
     .download img{
