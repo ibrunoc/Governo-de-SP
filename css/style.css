@@ -17,6 +17,7 @@ main {
     width: 100%;
     height: auto;
     margin: auto;
+    max-width: 1920px;
     background-color: #F0F1F1;
 }
 
@@ -199,7 +200,7 @@ a{
     width: 80%;
     margin: 20px auto;
     border-radius: 20px; 
-    height: 500px;
+    height: 523px;
     background-color: #024591;
 }
 
@@ -232,7 +233,7 @@ a{
 .vacinas{
     position: relative;
     width: 99.9%;
-    height: 435px;
+    height: 455px;
     border-radius: 20px;
     margin: auto;
     padding: 15px 0;
@@ -244,14 +245,14 @@ a{
     width: 30%;
     margin: 0 2%;
     border-radius: 20px; 
-    height: 390px;
+    height: 420px;
     background-color: #024591;
     float: left;
 }
 
 .populacao h1{
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     margin: 15px auto;
     float: none;
     background-color: #024591;
@@ -259,7 +260,7 @@ a{
 
 .fundo-vacina{
     width: 99%;
-    height: 335px;
+    height: 365px;
     border-radius: 20px;
     padding: 10px;
     margin: auto;
@@ -314,7 +315,7 @@ a{
     width: 30%;
     margin: 0 1%;
     border-radius: 20px; 
-    height: 390px;
+    height: 420px;
     background-color: #024591;
     float: left;
     text-align: center;
@@ -322,7 +323,7 @@ a{
 
 .doses-aplicadas h1{
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     margin: 15px auto;
     padding: 0 2%;
     background-color: #024591;
@@ -389,7 +390,7 @@ a{
     width: 30%;
     margin: 0 1%;
     border-radius: 20px; 
-    height: 390px;
+    height: 420px;
     background-color: #024591;
     float: left;
     text-align: center;
@@ -397,7 +398,7 @@ a{
 
 .doses-criancas h1{
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     margin: 15px auto;
     padding: 0 2%;
     background-color: #024591;
