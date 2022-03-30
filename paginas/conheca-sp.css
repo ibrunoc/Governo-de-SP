@@ -364,8 +364,8 @@ a:hover{
         text-align: center;
     }    
     .img-numeros{
-        width: 80%;
-        margin: 0 auto;
+        width: 70%;
+        margin: 10px auto;
         gap: 150px;
         display: flex;
         flex-direction: row;
