@@ -365,7 +365,7 @@ a:hover{
     }    
     .img-numeros{
         width: 70%;
-        margin: 10px auto;
+        margin: 50px auto;
         gap: 150px;
         display: flex;
         flex-direction: row;
