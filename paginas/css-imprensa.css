@@ -277,7 +277,7 @@ article {
 
 }
 #section_2 input {
-    width: 116.5%;
+    width: 122%;
     height:55px;
     text-align: left;
     margin: 0 1%;
@@ -321,11 +321,11 @@ ul #area{
 }
 
 #area li input {
-    width: 100%;
+    width: 90%;
 }
 
 #mensagem input {
-    width: 116.5%;
+    width: 122%;
     border-radius: 10px;
     height: 405px;
     margin: 0 1%;
