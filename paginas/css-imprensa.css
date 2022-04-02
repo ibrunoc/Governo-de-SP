@@ -444,9 +444,8 @@ a#a_assesoria {
         overflow-x:hidden;
         margin: auto;
     }
-    
-    main {
-        
+
+    main {    
         width: 100%;
         margin: auto;
     }   
@@ -464,83 +463,102 @@ a#a_assesoria {
         font-size: 26px;
     }
 
-    #section_2 p {
-        width: 100%;
-    }
-    
     #sala_de_imprensa button {
-
         margin-left: 5%;
     }
-    
+
     article{
-           width:100%
-          
-           
-       }
-       
-       #sala_de_imprensa{
+        width:100%       
+    }
+        
+    #sala_de_imprensa{
         width: 38%;
-       
-      
-   }
-   #telefones {
-    width: 58%;
-   
+    }
+    #telefones {
+        width: 58%;
+    }
+
+    #sala_de_imprensa a {  
+        width: 65%;    
+    }
+
+    #borda{
+        margin: auto;
+    }
+
+    #entre_contato {
+        height: 20px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #section_2 {
+        margin: 30px auto;
+        width: 90%;
+        text-align: center;
+    }
+
+    #contato {
+        padding: 0px 0%;
+    }
+
+    ul #area {
+        width: 100%;
+        display: flex;
+        margin: 0;
+    }
+    #section_2 input {
+        width: 90%;
+        
+    }
+
+    #section_2 input {
+        width: 100%;
+    }
+
+    #section_2 p {
+        margin-top: 0px;
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+    }
     
-    
+    #area li input {  
+            width: 100%;
+    }
 
-}
+    #section_2 ul a{
+        width: 100%;
+        font-size: 15px;
+    }
 
+    #section_2 ul {
+        margin-top: 25px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
 
-#sala_de_imprensa a {
-  
-    width: 65%;
-    
-}
+    #enviar {
+        text-align: center;
+        margin: auto;
+        margin-top:31px;
+    }
 
-#section_2 {
-    width: 80%;
-   margin: auto;
-}
+    #sala_de_imprensa img {
+        display: flex;
+        margin-top: -11px;
+        margin-left: 3px;
+        display: flex;
+    }
 
-
-ul #area {
-    width: 100%;
-    display: flex;
-}
-#section_2 input {
-    width: 100%;
-    
-}
-a#a_assesoria {
-    
-    width:90%;
-}
-#section_2 input {
-    width: 100%;
-   
-}
-#section_2 a {
-    width: 80%;
-}
-
-#area li input {
-    width: 100%;
-}
-
-#section_2 ul a{
-    width: 100%;
-
-
-
-}
-#section_2 ul {
-    display: flex;
-    flex-direction: column;
-    width:100%;
-}
-
+    #sala_de_imprensa a {
+        font-size: 25px;
+        width: 100%;
+        margin-top: -14px;
+    }
 }
 
 @media only screen and (max-width: 775px) and (min-width: 501px) {
