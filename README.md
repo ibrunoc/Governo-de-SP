@@ -1,6 +1,7 @@
 <h1 align="center">
   Governo de SP
 </h1>
+<h5 align="center">Data de criação do projeto: 28 de Março de 2022</h5>
 
 <h3 align="center">   
 Fiz esse projeto em grupo no curso PROA, a ideia era escolher um site e recria-lo deste o Design até o código, e o que meu grupo escolheu foi o site do governo de SP,  criar um site mais atrativo e moderno.
@@ -25,7 +26,8 @@ Fiz esse projeto em grupo no curso PROA, a ideia era escolher um site e recria-l
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Git](https://git-scm.com/docs)
-- [VS Code](https://code.visualstudio.com/).
+- [VS Code](https://code.visualstudio.com/)
+- [Figma](https://figma.com/)
 
 ## Como Usar O Projeto
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), instalado em seu computador.
