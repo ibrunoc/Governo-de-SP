@@ -32,7 +32,7 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/ibrunoc/Agua-Na-Boca.git
+$ git clone https://github.com/ibrunoc/Governo-de-SP.git
 
 # Abra o repositório
 
