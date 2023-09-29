@@ -20,8 +20,6 @@ Fiz esse projeto em grupo no curso PROA, a ideia era escolher um site e recria-l
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Git](https://git-scm.com/docs)
-- [VS Code](https://code.visualstudio.com/)
-- [Figma](https://figma.com/)
 
 <div align="center">
   <h2><a href="https://governo-de-sp.vercel.app/">LINK DO PROJETO</a></h2>
